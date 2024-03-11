@@ -1,0 +1,16 @@
+D:\yasamin\c#\calculator\calculator\bin\Debug\net8.0-windows\calculator.exe
+D:\yasamin\c#\calculator\calculator\bin\Debug\net8.0-windows\calculator.deps.json
+D:\yasamin\c#\calculator\calculator\bin\Debug\net8.0-windows\calculator.runtimeconfig.json
+D:\yasamin\c#\calculator\calculator\bin\Debug\net8.0-windows\calculator.dll
+D:\yasamin\c#\calculator\calculator\bin\Debug\net8.0-windows\calculator.pdb
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.Form1.resources
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.csproj.GenerateResource.cache
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfoInputs.cache
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.AssemblyInfo.cs
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.csproj.CoreCompileInputs.cache
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.dll
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\refint\calculator.dll
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.pdb
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\calculator.genruntimeconfig.cache
+D:\yasamin\c#\calculator\calculator\obj\Debug\net8.0-windows\ref\calculator.dll
